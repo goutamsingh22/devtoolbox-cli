@@ -1,9 +1,5 @@
 # DevToolbox CLI
 
-[![CI](https://github.com/goutamsingh22/devtoolbox-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/goutamsingh22/devtoolbox-cli/actions/workflows/ci.yml)
-[![PyPI](https://img.shields.io/pypi/v/devtoolbox-cli.svg)](https://pypi.org/project/devtoolbox-cli/)
-[![Python versions](https://img.shields.io/pypi/pyversions/devtoolbox-cli.svg)](https://pypi.org/project/devtoolbox-cli/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 One command-line toolbox for the small tasks that interrupt real work: hashing a
 file, decoding a JWT, converting a timestamp, generating a token, pretty-printing
